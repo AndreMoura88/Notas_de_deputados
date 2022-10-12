@@ -1,0 +1,489 @@
+,nome,estado,partido,ideologia,n_prod_leg,n_fisc,n_mobi,n_alin_partd,avg_site1,nota_site2
+0,abou anni,São Paulo,UNIÃO,direita,3.8,0.9,2.4,6.4,2.852941176470588,6.55
+1,acacio favacho,Amapá,MDB,centro,2.6,0.2,2.1,6.4,2.0294117647058822,6.12
+2,adolfo viana,Bahia,PSDB,centro,2.8,0.9,2.4,5.5,2.329411764705882,6.82
+3,adriana ventura,São Paulo,NOVO,direita,6.4,2.9,7.3,10.0,5.741176470588235,8.24
+4,adriano do baldy,Goiás,PP,direita,2.3,0.0,2.1,10.0,2.0411764705882356,6.82
+5,aecio neves,Minas Gerais,PSDB,centro,2.4,0.0,2.1,7.3,1.9294117647058822,5.84
+6,aelton freitas,Minas Gerais,PP,direita,1.6,0.7,0.9,9.1,1.6529411764705884,5.99
+7,afonso florence,Bahia,PT,esquerda,4.8,2.7,4.8,9.1,4.435294117647058,2.7
+8,afonso hamm,Rio Grande do Sul,PP,direita,2.2,1.6,3.3,7.3,2.5176470588235293,6.67
+9,afonso motta,Rio Grande do Sul,PDT,esquerda,3.5,1.3,3.0,5.5,2.8823529411764706,3.39
+10,airton faleiro,Pará,PT,esquerda,4.7,3.5,6.1,7.3,4.747058823529412,2.93
+11,aj albuquerque,Ceará,PP,direita,2.3,0.2,2.4,10.0,2.1529411764705877,6.7
+12,alceu moreira,Rio Grande do Sul,MDB,centro,3.3,2.4,2.1,7.3,3.0588235294117645,6.21
+13,alcides rodrigues,Goiás,PATRIOTA,direita,1.6,0.4,2.1,8.2,1.723529411764706,6.16
+14,ale silva,Minas Gerais,REPUBLICANOS,direita,5.7,1.5,3.6,7.3,4.188235294117647,7.39
+15,alessandro molon,Rio de Janeiro,PSB,esquerda,6.0,5.6,5.2,7.3,5.817647058823529,3.06
+16,alex manente,São Paulo,CIDADANIA,centro,3.2,2.4,3.0,8.2,3.2235294117647055,8.29
+17,alex santana,Bahia,REPUBLICANOS,direita,3.3,1.1,2.1,0.9,2.3000000000000003,6.13
+18,alexandre frota,São Paulo,PSDB,centro,5.9,1.3,4.8,0.9,4.0588235294117645,5.04
+19,alexandre leite,São Paulo,UNIÃO,direita,3.2,1.3,2.4,9.1,2.847058823529412,6.84
+20,alexandre padilha,São Paulo,PT,esquerda,7.7,3.6,7.6,9.1,6.558823529411764,2.84
+21,alexis fonteyne,São Paulo,NOVO,direita,5.3,2.9,5.8,10.0,4.958823529411765,7.87
+22,alice portugal,Bahia,PCdoB,esquerda,5.3,4.0,7.6,9.1,5.547058823529411,2.85
+23,aliel machado,Paraná,PV,esquerda,4.3,3.5,3.9,6.4,4.117647058823529,3.07
+24,aline gurgel,Amapá,REPUBLICANOS,direita,4.4,2.0,4.8,6.4,3.8823529411764706,5.56
+25,aline sleutjes,Paraná,PROS,centro,3.3,1.1,2.7,9.1,2.888235294117647,7.69
+26,altineu cortes,Rio de Janeiro,PL,direita,3.0,0.2,1.8,9.1,2.323529411764706,6.5
+27,aluisio mendes,Maranhão,PSC,direita,3.8,0.7,3.0,8.2,3.005882352941176,7.09
+28,amaro neto,Espírito Santo,REPUBLICANOS,direita,3.5,0.7,2.1,10.0,2.8117647058823527,6.39
+29,andre abdon,Amapá,PP,direita,1.6,0.2,0.9,10.0,1.5588235294117647,6.45
+30,andre de paula,Pernambuco,PSD,centro,3.4,0.4,2.1,6.4,2.4647058823529413,5.83
+31,andre ferreira,Pernambuco,PL,direita,2.0,0.0,1.8,8.2,1.741176470588235,5.93
+32,andre figueiredo,Ceará,PDT,esquerda,8.3,2.4,5.8,9.1,6.170588235294118,3.51
+33,andre fufuca,Maranhão,PP,direita,2.4,0.2,1.5,10.0,2.0411764705882356,5.62
+34,andre janones,Minas Gerais,AVANTE,centro,2.6,0.0,3.6,0.9,1.911764705882353,5.44
+35,angela amin,Santa Catarina,PP,direita,4.4,1.5,4.5,0.9,3.3588235294117648,6.68
+36,antonio brito,Bahia,PSD,centro,3.3,1.8,4.2,6.4,3.1999999999999997,6.75
+37,arlindo chinaglia,São Paulo,PT,esquerda,3.1,1.8,4.2,9.1,3.264705882352941,3.1
+38,arnaldo jardim,São Paulo,CIDADANIA,centro,3.9,2.7,4.8,4.5,3.7411764705882353,7.86
+39,aroldo martins,Paraná,REPUBLICANOS,direita,3.4,1.1,2.7,9.1,2.935294117647059,6.3
+40,arthur lira,Alagoas,PP,direita,2.7,0.7,0.9,0.9,1.688235294117647,6.02
+41,arthur oliveira maia,Bahia,UNIÃO,direita,2.2,0.9,2.1,7.3,2.1,6.33
+42,atila lins,Amazonas,PSD,centro,1.7,1.5,1.2,8.2,1.935294117647059,6.43
+43,atila lira,Piauí,PP,direita,2.2,0.2,2.4,0.9,1.5705882352941176,6.03
+44,augusto coutinho,Pernambuco,REPUBLICANOS,direita,4.3,1.6,3.3,6.4,3.452941176470588,6.81
+45,aurea carolina,Minas Gerais,PSOL,esquerda,3.5,2.4,5.5,10.0,3.911764705882353,3.45
+46,aureo ribeiro,Rio de Janeiro,SOLIDARIEDADE,centro,5.8,2.5,6.7,2.7,4.805882352941176,5.47
+47,bacelar,Bahia,PV,esquerda,4.1,2.5,3.6,0.9,3.352941176470588,3.37
+48,baleia rossi,São Paulo,MDB,centro,3.5,0.7,1.5,9.1,2.652941176470588,5.6
+49,benedita da silva,Rio de Janeiro,PT,esquerda,5.7,2.5,6.1,9.1,5.029411764705882,2.78
+50,benes leocadio,Rio Grande do Norte,UNIÃO,direita,3.8,0.2,2.7,8.2,2.8058823529411767,6.55
+51,beto faro,Pará,PT,esquerda,3.4,3.3,4.5,9.1,3.9,2.98
+52,beto pereira,Mato Grosso do Sul,PSDB,centro,2.5,1.1,3.0,4.5,2.2941176470588234,6.03
+53,beto rosado,Rio Grande do Norte,PP,direita,2.8,1.8,1.2,9.1,2.5941176470588236,5.43
+54,bia kicis,Distrito Federal,PL,direita,4.4,1.5,3.3,7.3,3.523529411764706,7.49
+55,bibo nunes,Rio Grande do Sul,PL,direita,5.5,1.3,4.2,7.3,4.141176470588236,7.65
+56,bilac pinto,Minas Gerais,UNIÃO,direita,3.1,1.3,1.8,9.1,2.6941176470588237,7.11
+57,bira do pindare,Maranhão,PSB,esquerda,5.9,1.8,6.7,3.6,4.7,3.15
+58,bohn gass,Rio Grande do Sul,PT,esquerda,5.1,4.7,5.5,9.1,5.288235294117647,2.85
+59,bosco costa,Sergipe,PL,direita,5.0,2.5,4.2,8.2,4.311764705882353,6.58
+60,bosco saraiva,Amazonas,SOLIDARIEDADE,centro,2.0,0.7,1.8,6.4,1.8411764705882352,6.51
+61,bruna furlan,São Paulo,PSDB,centro,1.8,1.6,1.5,0.9,1.6352941176470586,5.72
+62,caca leao,Bahia,PP,direita,3.1,0.2,2.4,10.0,2.5294117647058822,6.76
+63,camilo capiberibe,Amapá,PSB,esquerda,4.8,2.4,5.5,6.4,4.311764705882354,3.04
+64,capitao alberto neto,Amazonas,PL,direita,6.7,2.7,6.4,4.5,5.341176470588235,7.63
+65,capitao augusto,São Paulo,PL,direita,3.9,0.5,3.9,5.5,2.994117647058824,6.9
+66,capitao fabio abreu,Piauí,PSD,centro,2.7,0.4,2.7,5.5,2.1882352941176473,5.25
+67,capitao wagner,Ceará,UNIÃO,direita,5.1,1.1,3.3,0.9,3.3588235294117643,6.86
+68,carla dickson,Rio Grande do Norte,UNIÃO,direita,3.1,1.1,3.6,8.2,2.9,7.32
+69,carla zambelli,São Paulo,PL,direita,4.2,1.6,4.5,6.4,3.6176470588235294,7.22
+70,carlos bezerra,Mato Grosso,MDB,centro,4.7,0.7,3.6,5.5,3.3764705882352946,5.48
+71,carlos chiodini,Santa Catarina,MDB,centro,4.0,1.5,2.4,5.5,3.070588235294118,6.58
+72,carlos gomes,Rio Grande do Sul,REPUBLICANOS,direita,2.7,1.1,2.1,9.1,2.5000000000000004,6.54
+73,carlos henrique gaguim,Tocantins,UNIÃO,direita,5.1,1.6,5.5,6.4,4.2176470588235295,4.48
+74,carlos jordy,Rio de Janeiro,PL,direita,4.0,1.8,3.3,8.2,3.4764705882352938,7.46
+75,carlos sampaio,São Paulo,PSDB,centro,4.2,2.5,2.7,1.8,3.2941176470588234,7.08
+76,carlos veras,Pernambuco,PT,esquerda,4.9,2.9,6.1,9.1,4.770588235294118,2.94
+77,carlos zarattini,São Paulo,PT,esquerda,3.5,2.5,5.2,8.2,3.7823529411764705,2.93
+78,carmen zanotto,Santa Catarina,CIDADANIA,centro,7.0,3.6,9.1,4.5,6.223529411764706,7.3
+79,caroline de toni,Santa Catarina,PL,direita,4.7,0.4,3.6,5.5,3.2882352941176474,7.54
+80,cassio andrade,Pará,PSB,esquerda,4.2,2.0,4.2,0.9,3.3588235294117648,4.73
+81,celina leao,Distrito Federal,PP,direita,5.1,1.1,4.2,8.2,3.9470588235294115,5.46
+82,celio moura,Tocantins,PT,esquerda,3.8,2.4,5.5,9.1,4.0,2.74
+83,celio silveira,Goiás,MDB,centro,4.2,1.3,2.4,5.5,3.105882352941176,6.84
+84,celio studart,Ceará,PSD,centro,6.3,2.2,5.8,0.9,4.688235294117647,4.93
+85,celso maldaner,Santa Catarina,MDB,centro,3.6,0.9,2.4,7.3,2.8117647058823527,6.57
+86,celso russomanno,São Paulo,REPUBLICANOS,direita,3.2,1.6,4.8,7.3,3.2529411764705882,6.24
+87,celso sabino,Pará,UNIÃO,direita,4.5,1.6,3.9,3.6,3.488235294117647,6.14
+88,cezinha de madureira,São Paulo,PSD,centro,4.1,0.4,3.6,8.2,3.164705882352941,6.45
+89,charles fernandes,Bahia,PSD,centro,3.6,0.9,2.7,0.9,2.488235294117647,5.76
+90,charlles evangelista,Minas Gerais,PP,direita,2.8,0.9,2.4,7.3,2.435294117647058,6.77
+91,chico d'angelo,Rio de Janeiro,PDT,esquerda,3.4,1.6,3.0,10.0,3.1882352941176473,3.61
+92,chiquinho brazao,Rio de Janeiro,UNIÃO,direita,3.3,0.9,2.4,6.4,2.617647058823529,6.33
+93,chris tonietto,Rio de Janeiro,PL,direita,6.0,3.1,5.8,4.5,5.023529411764706,7.49
+94,christiane de souza yared,Paraná,PP,direita,3.6,0.0,2.1,4.5,2.3294117647058825,6.47
+95,christino aureo,Rio de Janeiro,PP,direita,4.3,1.6,5.2,8.2,3.894117647058824,6.53
+96,clarissa garotinho,Rio de Janeiro,UNIÃO,direita,3.1,1.8,2.4,0.9,2.4647058823529413,4.92
+97,claudio cajado,Bahia,PP,direita,1.7,1.3,1.8,8.2,1.9823529411764707,6.29
+98,cleber verde,Maranhão,REPUBLICANOS,direita,4.1,1.3,4.2,9.1,3.588235294117647,6.3
+99,coronel armando,Santa Catarina,PL,direita,4.1,1.5,4.8,9.1,3.7529411764705882,7.1
+100,coronel chrisostomo,Rondônia,PL,direita,3.3,0.5,4.5,9.1,3.0294117647058822,7.33
+101,coronel tadeu,São Paulo,PL,direita,6.9,1.6,5.5,7.3,5.117647058823529,7.1
+102,covatti filho,Rio Grande do Sul,PP,direita,1.1,1.3,1.2,9.1,1.6470588235294117,7.26
+103,cristiano vale,Pará,PP,direita,1.9,1.5,1.2,9.1,2.0823529411764703,5.6
+104,da vitoria,Espírito Santo,PP,direita,2.6,1.5,2.1,7.3,2.4647058823529413,7.21
+105,dagoberto nogueira,Mato Grosso do Sul,PSDB,centro,5.2,1.5,4.2,6.4,4.005882352941177,2.95
+106,damiao feliciano,Paraíba,UNIÃO,direita,2.4,0.2,3.0,8.2,2.1999999999999997,3.65
+107,daniel almeida,Bahia,PCdoB,esquerda,4.0,2.2,3.9,10.0,3.8058823529411767,2.72
+108,daniel coelho,Pernambuco,CIDADANIA,centro,3.2,1.8,4.5,0.9,2.8823529411764706,7.76
+109,daniel freitas,Santa Catarina,PL,direita,3.3,0.7,4.2,7.3,2.929411764705882,7.6
+110,daniel silveira,Rio de Janeiro,PTB,direita,3.6,0.9,4.8,8.2,3.2882352941176465,7.03
+111,daniel trzeciak,Rio Grande do Sul,PSDB,centro,2.3,1.3,1.8,0.9,1.8352941176470585,7.87
+112,daniela do waguinho,Rio de Janeiro,UNIÃO,direita,3.0,0.4,2.7,5.5,2.3294117647058825,6.2
+113,danilo cabral,Pernambuco,PSB,esquerda,5.3,4.4,7.0,6.4,5.4,3.61
+114,danilo forte,Ceará,UNIÃO,direita,1.9,1.6,1.8,4.5,1.947058823529412,7.04
+115,danrlei de deus hinterholz,Rio Grande do Sul,PSD,centro,1.8,0.4,2.1,5.5,1.6588235294117646,6.33
+116,darci de matos,Santa Catarina,PSD,centro,5.2,0.5,5.2,8.2,3.994117647058824,7.44
+117,david miranda,Rio de Janeiro,PDT,esquerda,4.0,3.8,4.8,8.2,4.329411764705883,3.31
+118,david soares,São Paulo,UNIÃO,direita,5.3,2.7,3.6,3.6,4.135294117647058,6.5
+119,delegado antonio furtado,Rio de Janeiro,UNIÃO,direita,4.3,0.0,3.0,0.9,2.605882352941176,6.36
+120,delegado eder mauro,Pará,PL,direita,3.0,0.0,2.4,6.4,2.211764705882353,7.03
+121,delegado marcelo freitas,Minas Gerais,UNIÃO,direita,4.8,0.9,2.7,7.3,3.429411764705882,7.06
+122,delegado pablo,Amazonas,UNIÃO,direita,4.2,2.0,4.2,8.2,3.7882352941176474,6.81
+123,delegado waldir,Goiás,UNIÃO,direita,4.5,0.9,3.0,1.8,3.0176470588235293,6.54
+124,denis bezerra,Ceará,PSB,esquerda,6.0,4.4,6.1,7.3,5.623529411764705,3.53
+125,diego andrade,Minas Gerais,PSD,centro,4.1,1.1,3.3,9.1,3.3705882352941177,5.78
+126,diego garcia,Paraná,REPUBLICANOS,direita,5.3,3.3,5.5,0.9,4.488235294117648,7.31
+127,dimas fabiano,Minas Gerais,PP,direita,1.7,1.1,1.2,8.2,1.8176470588235296,5.96
+128,domingos neto,Ceará,PSD,centro,2.5,0.9,2.4,9.1,2.4,5.83
+129,domingos savio,Minas Gerais,PL,direita,3.2,0.4,2.4,8.2,2.5294117647058822,6.39
+130,dr. agripino magalhaes,Ceará,UNIÃO,direita,0.5,0.0,0.0,10.0,0.8235294117647058,4.85
+131,dr. frederico,Minas Gerais,PATRIOTA,direita,3.6,1.6,4.8,7.3,3.441176470588235,6.16
+132,dr. jaziel,Ceará,PL,direita,4.2,1.6,3.0,4.5,3.2411764705882353,6.48
+133,dr. leonardo,Mato Grosso,REPUBLICANOS,direita,3.5,1.8,3.0,5.5,3.0294117647058822,6.72
+134,dr. luiz antonio teixeira jr.,Rio de Janeiro,PP,direita,4.1,0.7,6.7,8.2,3.8,6.56
+135,dr. luiz ovando,Mato Grosso do Sul,PP,direita,2.3,1.3,2.4,8.2,2.3705882352941177,7.11
+136,dr. zacharias calil,Goiás,UNIÃO,direita,4.5,1.1,4.8,6.4,3.664705882352941,6.69
+137,dra. soraya manato,Espírito Santo,PTB,direita,7.6,1.3,7.3,8.2,5.7294117647058815,7.51
+138,dra. vanda milani,Acre,PROS,centro,1.9,1.1,1.8,7.3,1.964705882352941,6.74
+139,dulce miranda,Tocantins,MDB,centro,2.6,1.6,3.3,5.5,2.6,6.07
+140,edilazio junior,Maranhão,PSD,centro,2.6,0.5,2.1,9.1,2.2764705882352945,6.69
+141,edio lopes,Roraima,PL,direita,2.3,1.1,1.8,9.1,2.2588235294117647,6.1
+142,edna henrique,Paraíba,REPUBLICANOS,direita,5.3,1.5,4.5,4.5,3.994117647058824,5.53
+143,eduardo barbosa,Minas Gerais,PSDB,centro,4.5,2.4,3.9,4.5,3.7764705882352945,6.95
+144,eduardo bismarck,Ceará,PDT,esquerda,8.2,3.1,7.3,0.9,6.111764705882353,3.9
+145,eduardo bolsonaro,São Paulo,PL,direita,2.5,1.8,2.1,8.2,2.5588235294117645,7.23
+146,eduardo costa,Pará,PSD,centro,4.8,1.6,5.5,6.4,4.076470588235294,6.93
+147,eduardo cury,São Paulo,PSDB,centro,4.0,2.4,2.4,1.8,3.1176470588235294,7.1
+148,eduardo da fonte,Pernambuco,PP,direita,4.4,1.8,3.3,7.3,3.611764705882353,5.36
+149,efraim filho,Paraíba,UNIÃO,direita,3.9,2.0,4.5,9.1,3.7529411764705887,7.1
+150,elcione barbalho,Pará,MDB,centro,2.5,2.0,2.7,3.6,2.4529411764705884,5.6
+151,eli borges,Tocantins,PL,direita,3.5,1.1,2.1,1.8,2.4470588235294115,5.74
+152,eli correa filho,São Paulo,UNIÃO,direita,2.5,0.2,2.1,9.1,2.1411764705882352,6.77
+153,elias vaz,Goiás,PSB,esquerda,4.5,6.0,5.8,4.5,5.170588235294118,3.77
+154,elmar nascimento,Bahia,UNIÃO,direita,2.0,0.7,1.5,9.1,1.947058823529412,6.45
+155,emanuel pinheiro neto,Mato Grosso,MDB,centro,4.2,2.0,4.2,1.8,3.411764705882353,5.62
+156,emidinho madeira,Minas Gerais,PL,direita,1.8,0.7,2.1,0.9,1.476470588235294,6.3
+157,enio verri,Paraná,PT,esquerda,5.0,4.9,5.2,9.1,5.247058823529411,2.53
+158,enrico misasi,São Paulo,MDB,centro,3.8,1.6,2.4,0.9,2.7352941176470584,6.9
+159,erika kokay,Distrito Federal,PT,esquerda,8.5,5.5,10.0,6.4,7.758823529411765,2.55
+160,eros biondini,Minas Gerais,PL,direita,1.9,1.8,1.8,4.5,2.0058823529411764,6.78
+161,euclydes pettersen,Minas Gerais,PSC,direita,1.8,0.9,2.1,6.4,1.8588235294117648,5.88
+162,evair vieira de melo,Espírito Santo,PP,direita,4.3,1.8,4.8,6.4,3.7764705882352945,7.68
+163,expedito netto,Rondônia,PSD,centro,3.3,0.5,2.4,0.9,2.1764705882352935,5.19
+164,fabio henrique,Sergipe,UNIÃO,direita,3.9,0.7,4.5,0.9,2.888235294117647,4.25
+165,fabio ramalho,Minas Gerais,MDB,centro,2.4,0.2,1.8,3.6,1.7176470588235295,6.35
+166,fabio reis,Sergipe,PSD,centro,2.4,1.8,1.5,5.5,2.2470588235294118,5.49
+167,fabio schiochet,Santa Catarina,UNIÃO,direita,2.6,0.9,1.8,8.2,2.2882352941176474,7.03
+168,fabio trad,Mato Grosso do Sul,PSD,centro,7.2,2.2,5.5,0.9,5.0588235294117645,5.83
+169,fausto pinato,São Paulo,PP,direita,3.8,2.2,4.8,6.4,3.6588235294117646,6.49
+170,felicio laterca,Rio de Janeiro,PP,direita,4.2,1.6,3.6,6.4,3.458823529411765,6.97
+171,felipe carreras,Pernambuco,PSB,esquerda,6.5,3.5,7.3,0.9,5.429411764705883,6.81
+172,felipe francischini,Paraná,UNIÃO,direita,4.0,0.5,2.1,8.2,2.8823529411764706,7.14
+173,felipe rigoni,Espírito Santo,UNIÃO,direita,6.7,3.1,6.1,0.9,5.194117647058824,7.72
+174,felix mendonca junior,Bahia,PDT,esquerda,3.2,0.7,3.0,5.5,2.5647058823529414,3.32
+175,fernanda melchionna,Rio Grande do Sul,PSOL,esquerda,7.7,3.8,7.0,9.1,6.511764705882352,3.41
+176,fernando coelho filho,Pernambuco,UNIÃO,direita,1.6,0.9,1.2,10.0,1.8176470588235294,6.31
+177,fernando monteiro,Pernambuco,PP,direita,2.4,1.1,2.1,8.2,2.3058823529411767,5.56
+178,fernando rodolfo,Pernambuco,PL,direita,4.4,0.7,5.2,0.9,3.2470588235294118,4.68
+179,filipe barros,Paraná,PL,direita,4.7,2.2,4.2,7.3,4.029411764705882,6.87
+180,flavia arruda,Distrito Federal,PL,direita,2.3,0.7,3.0,8.2,2.3,5.95
+181,flavia morais,Goiás,PDT,esquerda,5.2,1.1,5.5,4.5,4.0058823529411764,4.05
+182,flaviano melo,Acre,MDB,centro,1.6,1.3,1.2,7.3,1.776470588235294,6.33
+183,flavio nogueira,Piauí,PT,esquerda,3.2,0.2,3.0,0.9,2.1470588235294117,5.73
+184,francisco jr.,Goiás,PSD,centro,5.0,2.0,4.8,7.3,4.2176470588235295,6.45
+185,franco cartafina,Minas Gerais,PP,direita,3.9,1.5,2.7,5.5,3.0764705882352943,7.19
+186,fred costa,Minas Gerais,PATRIOTA,direita,6.0,0.9,4.8,6.4,4.311764705882354,7.36
+187,frei anastacio ribeiro,Paraíba,PT,esquerda,5.6,3.5,4.5,7.3,4.888235294117647,2.64
+188,gelson azevedo,Rio de Janeiro,PL,direita,1.8,0.7,0.9,9.1,1.7470588235294116,6.36
+189,genecias noronha,Ceará,PL,direita,1.3,0.4,0.6,8.2,1.3176470588235294,6.3
+190,general girao,Rio Grande do Norte,PL,direita,2.8,0.4,2.7,8.2,2.394117647058824,7.44
+191,general peternelli,São Paulo,UNIÃO,direita,4.0,1.6,5.2,6.4,3.6470588235294117,7.79
+192,geninho zuliani,São Paulo,UNIÃO,direita,7.8,1.6,6.7,7.3,5.752941176470588,6.63
+193,geovania de sa,Santa Catarina,PSDB,centro,3.3,0.2,2.4,1.8,2.141176470588235,7.02
+194,gervasio maia,Paraíba,PSB,esquerda,3.6,1.6,4.8,6.4,3.3882352941176466,3.08
+195,giacobo,Paraná,PL,direita,1.5,0.9,1.5,9.1,1.7705882352941178,6.81
+196,gil cutrim,Maranhão,REPUBLICANOS,direita,3.1,0.9,3.6,0.9,2.411764705882353,6.9
+197,gilberto abramo,Minas Gerais,REPUBLICANOS,direita,4.2,0.9,3.6,10.0,3.4647058823529413,6.41
+198,gilberto nascimento,São Paulo,PSC,direita,1.6,2.2,1.8,8.2,2.2,5.66
+199,gilson marques,Santa Catarina,NOVO,direita,5.6,2.9,3.0,10.0,4.605882352941176,7.97
+200,giovani cherini,Rio Grande do Sul,PL,direita,5.2,1.6,5.2,8.2,4.31764705882353,6.77
+201,giovani feltes,Rio Grande do Sul,MDB,centro,1.4,0.9,0.6,6.4,1.4058823529411764,6.24
+202,glauber braga,Rio de Janeiro,PSOL,esquerda,3.6,3.8,6.4,9.1,4.476470588235294,3.11
+203,gleisi hoffmann,Paraná,PT,esquerda,4.2,3.5,4.8,9.1,4.388235294117647,2.35
+204,gonzaga patriota,Pernambuco,PSB,esquerda,2.8,2.4,2.7,6.4,2.876470588235294,3.37
+205,greyce elias,Minas Gerais,AVANTE,centro,3.3,1.3,3.6,7.3,3.0,6.36
+206,guiga peixoto,São Paulo,PSC,direita,3.6,1.5,2.4,3.6,2.7705882352941176,7.95
+207,guilherme mussi,São Paulo,PP,direita,1.4,0.9,1.5,9.1,1.7235294117647058,5.86
+208,gurgel,Rio de Janeiro,PL,direita,4.1,1.6,3.0,8.2,3.411764705882353,7.41
+209,gustavo fruet,Paraná,PDT,esquerda,5.1,4.0,3.3,3.6,4.370588235294116,4.01
+210,gustinho ribeiro,Sergipe,REPUBLICANOS,direita,2.6,0.5,2.7,8.2,2.3294117647058825,6.47
+211,gutemberg reis,Rio de Janeiro,MDB,centro,3.0,0.5,4.2,7.3,2.7294117647058824,5.46
+212,haroldo cathedral,Roraima,PSD,centro,1.7,1.3,2.1,7.3,1.9823529411764707,5.71
+213,heitor freire,Ceará,UNIÃO,direita,4.4,1.5,3.3,7.3,3.523529411764706,7.16
+214,heitor schuch,Rio Grande do Sul,PSB,esquerda,3.3,1.6,3.3,6.4,2.98235294117647,3.88
+215,helder salomao,Espírito Santo,PT,esquerda,7.2,2.5,5.2,9.1,5.576470588235293,2.62
+216,helio costa,Santa Catarina,PSD,centro,2.4,0.2,1.5,1.8,1.5588235294117647,6.61
+217,helio leite,Pará,UNIÃO,direita,2.5,0.0,2.1,7.3,1.9764705882352942,6.29
+218,helio lopes,Rio de Janeiro,PL,direita,5.1,1.5,3.9,9.1,4.064705882352941,7.17
+219,henrique fontana,Rio Grande do Sul,PT,esquerda,3.3,3.5,4.2,8.2,3.8058823529411767,2.18
+220,hercilio coelho diniz,Minas Gerais,MDB,centro,3.1,0.0,3.3,4.5,2.3058823529411767,6.71
+221,herculano passos,São Paulo,REPUBLICANOS,direita,2.5,1.3,4.5,7.3,2.7823529411764705,4.43
+222,hermes parcianello,Paraná,MDB,centro,1.4,0.9,0.6,3.6,1.2411764705882353,6.39
+223,hildo rocha,Maranhão,MDB,centro,6.4,2.2,5.8,2.7,4.841176470588235,5.93
+224,hiran goncalves,Roraima,PP,direita,3.6,0.5,3.0,9.1,2.9058823529411764,6.8
+225,hugo leal,Rio de Janeiro,PSD,centro,5.3,3.5,5.5,7.3,4.923529411764706,7.16
+226,hugo motta,Paraíba,REPUBLICANOS,direita,3.5,0.9,2.1,8.2,2.764705882352941,6.3
+227,idilvan alencar,Ceará,PDT,esquerda,2.7,2.0,3.9,1.8,2.6529411764705877,3.64
+228,igor kannario,Bahia,UNIÃO,direita,2.5,0.0,1.5,6.4,1.8176470588235294,6.92
+229,igor timo,Minas Gerais,PODE,centro,3.6,1.5,4.8,7.3,3.4117647058823524,6.51
+230,iracema portella,Piauí,PP,direita,1.9,0.7,1.5,9.1,1.9,5.78
+231,isnaldo bulhoes jr.,Alagoas,MDB,centro,3.5,0.2,3.0,8.2,2.7176470588235295,6.63
+232,ivan valente,São Paulo,PSOL,esquerda,6.6,4.2,5.8,9.1,5.899999999999999,3.05
+233,jandira feghali,Rio de Janeiro,PCdoB,esquerda,5.6,3.8,6.4,9.1,5.417647058823529,2.94
+234,jaqueline cassol,Rondônia,PP,direita,3.6,1.5,3.9,6.4,3.1999999999999997,6.4
+235,jefferson campos,São Paulo,PL,direita,3.2,2.4,0.9,0.9,2.423529411764706,6.43
+236,jeronimo goergen,Rio Grande do Sul,PP,direita,5.0,1.1,7.3,5.5,4.288235294117648,7.33
+237,jessica sales,Acre,MDB,centro,2.7,0.4,2.1,1.8,1.8647058823529414,5.92
+238,jesus sergio,Acre,PDT,esquerda,4.1,2.5,3.3,4.5,3.511764705882353,4.17
+239,jhonatan de jesus,Roraima,REPUBLICANOS,direita,3.0,0.2,2.4,8.2,2.3764705882352946,6.63
+240,joao campos,Goiás,REPUBLICANOS,direita,2.8,0.7,2.7,7.3,2.429411764705882,6.13
+241,joao carlos bacelar,Bahia,PL,direita,1.8,0.5,2.1,9.1,1.9,5.02
+242,joao daniel,Sergipe,PT,esquerda,6.0,2.7,6.1,8.2,5.176470588235294,2.61
+243,joao maia,Rio Grande do Norte,PL,direita,3.2,1.1,2.1,10.0,2.7882352941176474,7.25
+244,joao marcelo souza,Maranhão,MDB,centro,1.7,0.2,1.8,9.1,1.711764705882353,5.6
+245,joao roma,Bahia,PL,direita,3.2,0.5,2.4,8.2,2.5588235294117645,6.12
+246,joaquim passarinho,Pará,PL,direita,3.9,1.6,3.0,3.6,3.047058823529412,7.75
+247,joenia wapichana,Roraima,REDE,esquerda,5.2,2.7,5.8,10.0,4.852941176470588,3.67
+248,joice hasselmann,São Paulo,PSDB,centro,4.2,2.0,3.3,0.9,3.1999999999999997,7.87
+249,jones moura,Rio de Janeiro,PSD,centro,0.5,0.2,0.9,10.0,1.0411764705882351,7.39
+250,jorge braz,Rio de Janeiro,REPUBLICANOS,direita,2.3,1.1,1.5,9.1,2.2058823529411766,6.28
+251,jorge solla,Bahia,PT,esquerda,5.5,4.4,6.4,9.1,5.547058823529412,1.95
+252,jose airton felix cirilo,Ceará,PT,esquerda,4.4,0.7,3.6,8.2,3.394117647058824,2.58
+253,jose guimaraes,Ceará,PT,esquerda,6.9,2.2,4.8,8.2,5.223529411764706,2.75
+254,jose mario schreiner,Goiás,MDB,centro,4.2,1.8,2.1,6.4,3.2529411764705887,7.15
+255,jose medeiros,Mato Grosso,PL,direita,7.2,0.9,3.9,0.9,4.394117647058824,6.71
+256,jose nelto,Goiás,PP,direita,6.0,1.3,6.1,6.4,4.658823529411765,6.3
+257,jose priante,Pará,MDB,centro,1.4,0.2,0.6,8.2,1.3058823529411765,5.07
+258,jose ricardo,Amazonas,PT,esquerda,5.7,3.3,5.8,7.3,5.105882352941176,2.65
+259,jose rocha,Bahia,UNIÃO,direita,1.9,0.2,3.9,9.1,2.176470588235294,6.3
+260,joseildo ramos,Bahia,PT,esquerda,3.6,2.2,4.8,8.2,3.670588235294117,2.94
+261,josimar maranhaozinho,Maranhão,PL,direita,1.4,0.0,0.9,9.1,1.3529411764705883,4.78
+262,josivaldo jp,Maranhão,PSD,centro,0.9,0.2,1.2,10.0,1.2823529411764705,6.82
+263,juarez costa,Mato Grosso,MDB,centro,2.5,1.5,1.8,4.5,2.1999999999999997,5.81
+264,julian lemos,Paraíba,UNIÃO,direita,3.0,1.1,1.8,5.5,2.376470588235294,7.06
+265,julio cesar,Piauí,PSD,centro,2.6,0.9,2.1,9.1,2.394117647058824,6.72
+266,julio cesar ribeiro,Distrito Federal,REPUBLICANOS,direita,7.2,2.0,6.1,9.1,5.588235294117646,6.41
+267,julio delgado,Minas Gerais,PV,esquerda,4.2,2.4,3.3,1.8,3.3705882352941177,3.82
+268,juninho do pneu,Rio de Janeiro,UNIÃO,direita,5.1,0.7,4.8,9.1,3.988235294117647,6.5
+269,junio amaral,Minas Gerais,PL,direita,4.1,0.7,2.4,3.6,2.7705882352941176,7.35
+270,junior ferrari,Pará,PSD,centro,2.8,0.2,1.8,2.7,1.852941176470588,7.8
+271,junior lourenco,Maranhão,PL,direita,1.0,0.0,1.5,10.0,1.3235294117647058,6.39
+272,junior mano,Ceará,PL,direita,3.1,0.4,3.6,9.1,2.7470588235294118,5.84
+273,juscelino filho,Maranhão,UNIÃO,direita,2.3,0.9,2.4,9.1,2.3058823529411763,5.68
+274,kim kataguiri,São Paulo,UNIÃO,direita,9.0,3.3,6.1,0.9,6.335294117647059,7.85
+275,laercio oliveira,Sergipe,PP,direita,3.4,1.5,4.5,7.3,3.264705882352941,7.54
+276,lafayette de andrada,Minas Gerais,REPUBLICANOS,direita,4.1,0.2,3.9,9.1,3.211764705882353,6.09
+277,lauriete,Espírito Santo,PSC,direita,4.2,1.1,2.4,8.2,3.2058823529411766,6.18
+278,leandre,Paraná,PSD,centro,4.7,3.8,3.9,0.9,4.070588235294117,5.44
+279,leda sadala,Amapá,PP,direita,2.2,1.8,2.4,7.3,2.4176470588235293,6.0
+280,leo de brito,Acre,PT,esquerda,3.1,3.8,3.9,10.0,3.8529411764705883,4.03
+281,leo moraes,Rondônia,PODE,centro,7.3,2.2,6.4,0.9,5.264705882352942,6.62
+282,leo motta,Minas Gerais,REPUBLICANOS,direita,1.9,0.2,2.1,0.9,1.3764705882352941,5.97
+283,leonardo monteiro,Minas Gerais,PT,esquerda,3.6,3.8,7.9,8.2,4.688235294117647,2.8
+284,leonidas cristino,Ceará,PDT,esquerda,2.2,2.0,2.7,8.2,2.5823529411764707,3.15
+285,leur lomanto junior,Bahia,UNIÃO,direita,2.2,0.0,2.7,6.4,1.8882352941176472,6.47
+286,lidice da mata,Bahia,PSB,esquerda,5.5,2.4,7.0,6.4,4.905882352941177,2.47
+287,lincoln portela,Minas Gerais,PL,direita,5.2,1.5,4.2,6.4,4.005882352941177,7.4
+288,liziane bayer,Rio Grande do Sul,REPUBLICANOS,direita,3.2,1.3,2.4,0.9,2.3647058823529408,6.98
+289,loester trutis,Mato Grosso do Sul,PL,direita,3.9,1.1,4.5,5.5,3.2764705882352945,7.21
+290,lourival gomes,Rio de Janeiro,PP,direita,2.2,1.6,1.2,6.4,2.0941176470588236,6.96
+291,lucas gonzalez,Minas Gerais,NOVO,direita,6.0,3.1,4.8,10.0,5.170588235294118,7.49
+292,lucas redecker,Rio Grande do Sul,PSDB,centro,4.5,2.2,4.8,0.9,3.664705882352941,8.07
+293,lucas vergilio,Goiás,SOLIDARIEDADE,centro,3.9,1.6,3.3,5.5,3.211764705882353,6.66
+294,luciano bivar,Pernambuco,UNIÃO,direita,1.5,1.3,0.6,8.2,1.6764705882352942,5.84
+295,luciano ducci,Paraná,PSB,esquerda,3.6,1.6,3.9,0.9,2.9058823529411764,3.82
+296,lucio mosquini,Rondônia,MDB,centro,3.4,2.4,3.0,5.5,3.158823529411765,4.96
+297,luis miranda,Distrito Federal,REPUBLICANOS,direita,8.2,3.6,6.1,5.5,6.317647058823529,7.24
+298,luis tibe,Minas Gerais,AVANTE,centro,2.3,0.0,2.4,9.1,2.041176470588235,6.09
+299,luisa canziani,Paraná,PSD,centro,3.5,2.9,3.9,6.4,3.5647058823529414,6.99
+300,luiz antonio correa,Rio de Janeiro,PP,direita,2.0,0.2,1.8,8.2,1.7999999999999998,6.26
+301,luiz carlos,Amapá,PSDB,centro,1.5,1.3,1.8,8.2,1.8882352941176468,6.55
+302,luiz carlos motta,São Paulo,PL,direita,3.0,0.9,3.3,7.3,2.688235294117647,6.68
+303,luiz lima,Rio de Janeiro,PL,direita,6.5,1.6,3.9,8.2,4.7,7.69
+304,luiz nishimori,Paraná,PSD,centro,2.5,1.6,2.1,8.2,2.5,6.59
+305,luiz philippe de orleans e braganca,São Paulo,PL,direita,6.7,1.3,4.8,1.8,4.488235294117647,7.78
+306,luiza erundina,São Paulo,PSOL,esquerda,4.2,3.6,5.2,7.3,4.382352941176471,2.97
+307,luizao goulart,Paraná,SOLIDARIEDADE,centro,5.6,0.4,3.6,7.3,3.8176470588235287,6.5
+308,luizianne lins,Ceará,PT,esquerda,3.4,3.6,4.5,9.1,3.988235294117647,3.15
+309,magda mofatto,Goiás,PL,direita,2.8,2.4,2.1,8.2,2.8764705882352946,5.32
+310,major fabiana,Rio de Janeiro,PL,direita,3.2,1.1,3.3,9.1,2.947058823529412,7.2
+311,mara rocha,Acre,MDB,centro,4.1,1.5,3.6,0.9,3.0588235294117645,6.24
+312,marcel van hattem,Rio Grande do Sul,NOVO,direita,3.4,2.4,5.2,8.2,3.7058823529411766,7.66
+313,marcelo alvaro antonio,Minas Gerais,PL,direita,1.0,0.4,0.9,9.1,1.2823529411764705,7.2
+314,marcelo aro,Minas Gerais,PP,direita,2.5,1.3,2.7,8.2,2.5176470588235293,5.36
+315,marcelo calero,Rio de Janeiro,PSD,centro,3.4,2.9,4.2,4.5,3.458823529411765,7.93
+316,marcelo freixo,Rio de Janeiro,PSB,esquerda,5.2,4.4,5.8,8.2,5.247058823529412,3.37
+317,marcelo nilo,Bahia,REPUBLICANOS,direita,2.4,0.4,3.0,5.5,2.1,4.05
+318,marcelo ramos,Amazonas,PSD,centro,6.4,2.0,5.5,0.9,4.623529411764706,6.97
+319,marcio alvino,São Paulo,PL,direita,1.6,1.1,3.9,9.1,2.3000000000000003,7.22
+320,marcio biolchi,Rio Grande do Sul,MDB,centro,1.9,0.2,0.6,5.5,1.3823529411764706,6.89
+321,marcio labre,Rio de Janeiro,PL,direita,3.1,0.9,2.1,7.3,2.523529411764706,7.33
+322,marcio marinho,Bahia,REPUBLICANOS,direita,2.7,0.2,4.5,9.1,2.658823529411765,5.96
+323,marco bertaiolli,São Paulo,PSD,centro,3.3,1.1,4.2,5.5,2.9411764705882355,8.02
+324,marcon,Rio Grande do Sul,PT,esquerda,3.9,3.8,4.8,7.3,4.2294117647058815,2.56
+325,marcos aurelio sampaio,Piauí,PSD,centro,2.0,0.2,2.1,9.1,1.9058823529411764,6.22
+326,marcos pereira,São Paulo,REPUBLICANOS,direita,3.5,0.9,2.7,7.3,2.817647058823529,6.93
+327,marcos soares,Rio de Janeiro,UNIÃO,direita,0.8,0.4,1.2,7.3,1.1352941176470588,5.81
+328,margarete coelho,Piauí,PP,direita,4.8,0.7,4.5,8.2,3.741176470588235,6.32
+329,maria do rosario,Rio Grande do Sul,PT,esquerda,7.2,2.5,6.4,8.2,5.735294117647059,2.62
+330,maria rosas,São Paulo,REPUBLICANOS,direita,3.6,1.3,3.0,10.0,3.1941176470588233,5.9
+331,marilia arraes,Pernambuco,SOLIDARIEDADE,centro,5.3,2.7,5.2,9.1,4.741176470588235,2.77
+332,marina santos,Piauí,REPUBLICANOS,direita,2.7,1.1,2.4,8.2,2.5,6.5
+333,mario heringer,Minas Gerais,PDT,esquerda,5.5,2.2,3.6,8.2,4.352941176470588,3.76
+334,mario negromonte jr.,Bahia,PP,direita,2.4,0.9,1.8,5.5,2.0352941176470587,5.65
+335,marlon santos,Rio Grande do Sul,PL,direita,1.7,0.7,1.8,0.9,1.3764705882352941,6.5
+336,marreca filho,Maranhão,PATRIOTA,direita,4.9,2.2,3.3,6.4,3.911764705882353,6.82
+337,marx beltrao,Alagoas,PP,direita,2.7,1.1,2.4,6.4,2.3941176470588235,6.32
+338,mauricio dziedricki,Rio Grande do Sul,PODE,centro,3.3,0.0,3.0,6.4,2.4588235294117644,7.16
+339,mauro benevides filho,Ceará,PDT,esquerda,1.6,1.8,2.1,9.1,2.1882352941176473,5.47
+340,mauro lopes,Minas Gerais,PP,direita,2.6,0.9,2.7,7.3,2.394117647058824,6.2
+341,mauro nazif,Rondônia,PSB,esquerda,7.0,0.7,5.2,0.9,4.470588235294118,4.65
+342,merlong solano,Piauí,PT,esquerda,2.8,2.7,3.0,8.2,3.1235294117647054,3.32
+343,miguel lombardi,São Paulo,PL,direita,2.4,1.5,1.8,6.4,2.264705882352941,7.26
+344,milton coelho,Pernambuco,PSB,esquerda,1.7,1.1,2.4,7.3,1.9764705882352942,3.97
+345,milton vieira,São Paulo,REPUBLICANOS,direita,2.4,0.9,1.8,10.0,2.3000000000000003,6.16
+346,misael varella,Minas Gerais,PSD,centro,1.7,1.1,1.5,7.3,1.8176470588235296,6.03
+347,natalia bonavides,Rio Grande do Norte,PT,esquerda,6.3,2.5,5.2,9.1,5.152941176470588,2.51
+348,nelson barbudo,Mato Grosso,PL,direita,3.2,0.7,2.1,9.1,2.61764705882353,7.42
+349,nereu crispim,Rio Grande do Sul,PSD,centro,5.5,1.1,6.1,3.6,4.199999999999999,6.79
+350,neri geller,Mato Grosso,PP,direita,2.7,0.7,2.1,10.0,2.435294117647059,6.62
+351,neucimar fraga,Espírito Santo,PP,direita,2.4,1.1,1.8,8.2,2.2529411764705882,6.9
+352,newton cardoso jr,Minas Gerais,MDB,centro,2.7,1.1,4.5,5.5,2.711764705882353,5.65
+353,nicoletti,Roraima,UNIÃO,direita,4.8,1.6,3.3,7.3,3.741176470588235,6.86
+354,nilson pinto,Pará,PSDB,centro,1.5,1.1,1.8,8.2,1.8294117647058823,6.43
+355,nilto tatto,São Paulo,PT,esquerda,6.9,4.4,5.2,9.1,5.9941176470588236,2.89
+356,nivaldo albuquerque,Alagoas,REPUBLICANOS,direita,4.4,1.5,3.9,8.2,3.6823529411764713,6.87
+357,norma ayub,Espírito Santo,PP,direita,3.5,1.3,3.6,2.7,2.823529411764706,5.49
+358,odair cunha,Minas Gerais,PT,esquerda,2.2,1.3,4.5,7.3,2.6411764705882352,2.78
+359,olival marques,Pará,MDB,centro,2.2,0.4,1.5,8.2,1.9,6.48
+360,orlando silva,São Paulo,PCdoB,esquerda,5.0,2.7,6.7,8.2,4.811764705882353,2.5
+361,osmar terra,Rio Grande do Sul,MDB,centro,1.4,0.9,1.5,2.7,1.3470588235294116,6.54
+362,ossesio silva,Pernambuco,REPUBLICANOS,direita,3.6,1.8,3.3,10.0,3.3941176470588235,6.25
+363,otoni de paula,Rio de Janeiro,MDB,centro,3.4,0.5,3.9,6.4,2.8117647058823527,6.9
+364,ottaci nascimento,Roraima,SOLIDARIEDADE,centro,1.6,0.0,1.8,8.2,1.5529411764705883,6.42
+365,otto alencar filho,Bahia,PSD,centro,4.3,0.9,3.0,0.9,2.8705882352941177,5.36
+366,padre joao,Minas Gerais,PT,esquerda,4.0,2.2,6.4,9.1,4.194117647058824,2.57
+367,pastor eurico,Pernambuco,PL,direita,4.0,1.3,3.3,8.2,3.329411764705882,7.39
+368,pastor gil,Maranhão,PL,direita,3.4,0.7,3.3,7.3,2.8176470588235287,6.14
+369,pastor sargento isidorio,Bahia,AVANTE,centro,4.2,0.0,2.4,0.9,2.452941176470588,4.08
+370,patricia ferraz,Amapá,PODE,centro,2.0,0.4,2.7,10.0,2.123529411764706,6.84
+371,patrus ananias,Minas Gerais,PT,esquerda,5.3,4.4,5.5,9.1,5.294117647058823,2.91
+372,paula belmonte,Distrito Federal,CIDADANIA,centro,6.4,3.6,8.8,0.9,5.676470588235295,7.99
+373,paulao,Alagoas,PT,esquerda,3.5,2.2,4.8,9.1,3.676470588235294,2.82
+374,paulo abi-ackel,Minas Gerais,PSDB,centro,3.0,1.1,2.1,7.3,2.5352941176470587,6.05
+375,paulo azi,Bahia,UNIÃO,direita,2.4,1.1,2.7,7.3,2.3588235294117643,6.55
+376,paulo bengtson,Pará,PTB,direita,6.0,0.9,3.9,7.3,4.205882352941177,6.33
+377,paulo eduardo martins,Paraná,PL,direita,4.7,1.3,3.0,0.9,3.176470588235294,7.73
+378,paulo freire costa,São Paulo,PL,direita,1.7,1.3,0.9,8.2,1.8235294117647058,7.14
+379,paulo ganime,Rio de Janeiro,NOVO,direita,6.3,4.7,5.5,9.1,5.852941176470588,7.82
+380,paulo guedes,Minas Gerais,PT,esquerda,3.5,2.4,5.8,9.1,3.911764705882353,3.22
+381,paulo magalhaes,Bahia,PSD,centro,2.0,0.4,0.9,4.5,1.4823529411764707,6.84
+382,paulo pimenta,Rio Grande do Sul,PT,esquerda,4.4,3.5,5.8,8.2,4.605882352941176,2.1
+383,paulo ramos,Rio de Janeiro,PDT,esquerda,5.9,3.5,5.5,6.4,5.152941176470589,3.14
+384,paulo teixeira,São Paulo,PT,esquerda,7.0,4.4,8.5,9.1,6.623529411764705,2.3
+385,pedro augusto bezerra,Ceará,PDT,esquerda,4.4,1.3,4.5,0.9,3.3000000000000003,6.24
+386,pedro augusto palareti,Rio de Janeiro,PP,direita,1.1,0.5,0.6,8.2,1.2529411764705882,7.33
+387,pedro cunha lima,Paraíba,PSDB,centro,2.6,2.4,2.7,3.6,2.6176470588235294,7.83
+388,pedro lucas fernandes,Maranhão,UNIÃO,direita,4.8,1.5,3.6,6.4,3.711764705882353,6.64
+389,pedro lupion,Paraná,PP,direita,4.4,1.3,3.6,5.5,3.411764705882353,6.84
+390,pedro paulo,Rio de Janeiro,PSD,centro,1.8,1.5,1.8,8.2,2.088235294117647,6.98
+391,pedro uczai,Santa Catarina,PT,esquerda,5.6,3.6,7.3,8.2,5.46470588235294,2.65
+392,pedro vilela,Alagoas,PSDB,centro,2.2,1.8,2.4,7.3,2.4176470588235293,7.89
+393,pedro westphalen,Rio Grande do Sul,PP,direita,3.6,0.9,4.8,9.1,3.341176470588235,7.35
+394,perpetua almeida,Acre,PCdoB,esquerda,7.0,2.4,7.9,8.2,5.876470588235295,2.87
+395,pinheirinho,Minas Gerais,PP,direita,3.5,1.3,2.7,9.1,3.0411764705882356,6.46
+396,policial katia sastre,São Paulo,PL,direita,3.8,1.5,3.6,6.4,3.2411764705882353,6.48
+397,pompeo de mattos,Rio Grande do Sul,PDT,esquerda,8.0,0.7,7.0,3.6,5.417647058823529,3.69
+398,pr. marco feliciano,São Paulo,PL,direita,2.2,2.0,2.1,6.4,2.370588235294118,6.09
+399,professor alcides,Goiás,PL,direita,2.4,1.1,2.4,9.1,2.411764705882353,6.77
+400,professor israel batista,Distrito Federal,PSB,esquerda,5.2,3.3,6.7,0.9,4.652941176470589,4.14
+401,professor joziel,Rio de Janeiro,PATRIOTA,direita,3.0,1.3,1.8,6.4,2.488235294117647,6.54
+402,professora dayane pimentel,Bahia,UNIÃO,direita,2.8,1.3,2.4,0.9,2.1764705882352935,7.27
+403,professora marcivania,Amapá,PCdoB,esquerda,2.8,2.5,3.3,9.1,3.1705882352941175,2.98
+404,professora rosa neide,Mato Grosso,PT,esquerda,5.7,4.0,7.0,8.2,5.576470588235294,2.98
+405,rafael motta,Rio Grande do Norte,PSB,esquerda,4.1,3.1,4.2,6.4,3.9588235294117644,3.86
+406,raimundo costa,Bahia,PODE,centro,2.3,1.3,1.5,6.4,2.105882352941176,6.38
+407,raul henry,Pernambuco,MDB,centro,2.2,1.3,2.1,0.9,1.8411764705882354,6.23
+408,reginaldo lopes,Minas Gerais,PT,esquerda,6.5,4.0,7.0,8.2,5.952941176470588,2.65
+409,rejane dias,Piauí,PT,esquerda,7.0,4.2,6.4,7.3,6.088235294117647,2.9
+410,renildo calheiros,Pernambuco,PCdoB,esquerda,4.2,1.6,2.7,10.0,3.511764705882353,3.06
+411,ricardo barros,Paraná,PP,direita,2.6,0.9,4.2,7.3,2.658823529411765,6.78
+412,ricardo da karol,Rio de Janeiro,PDT,esquerda,0.7,0.0,0.6,9.1,0.9705882352941176,6.45
+413,ricardo guidi,Santa Catarina,PSD,centro,2.2,0.5,1.2,8.2,1.8764705882352943,6.93
+414,ricardo izar,São Paulo,REPUBLICANOS,direita,4.7,2.5,5.5,0.9,3.9705882352941178,5.35
+415,ricardo silva,São Paulo,PSD,centro,4.8,2.5,3.3,0.9,3.629411764705882,6.33
+416,ricardo teobaldo,Pernambuco,PODE,centro,1.8,1.1,1.2,5.5,1.7058823529411764,5.81
+417,roberio monteiro,Ceará,PDT,esquerda,1.9,0.0,1.5,6.4,1.535294117647059,3.92
+418,roberto alves,São Paulo,REPUBLICANOS,direita,3.9,1.6,2.7,10.0,3.370588235294118,6.07
+419,roberto de lucena,São Paulo,REPUBLICANOS,direita,5.6,0.5,6.4,4.5,4.176470588235294,6.95
+420,rodrigo agostinho,São Paulo,PSB,esquerda,7.4,3.3,4.5,0.9,5.300000000000001,5.01
+421,rodrigo coelho,Santa Catarina,PODE,centro,4.3,1.5,5.8,0.9,3.541176470588235,7.91
+422,rodrigo de castro,Minas Gerais,UNIÃO,direita,3.3,0.2,3.0,6.4,2.5176470588235293,6.65
+423,rogerio correia,Minas Gerais,PT,esquerda,6.3,2.5,8.8,9.1,5.788235294117647,2.6
+424,rogerio peninha mendonca,Santa Catarina,MDB,centro,3.0,0.2,2.4,0.9,1.947058823529412,7.38
+425,ronaldo carletto,Bahia,PP,direita,2.2,2.9,1.5,10.0,2.7411764705882353,6.5
+426,ronaldo martins,Ceará,REPUBLICANOS,direita,0.6,0.4,0.9,10.0,1.1470588235294117,6.65
+427,rosana valle,São Paulo,PL,direita,4.0,2.2,4.2,0.9,3.323529411764706,6.28
+428,rosangela gomes,Rio de Janeiro,REPUBLICANOS,direita,2.6,1.5,2.4,5.5,2.411764705882353,6.12
+429,rose modesto,Mato Grosso do Sul,UNIÃO,direita,3.9,1.5,3.6,0.9,2.9647058823529413,5.92
+430,rubens bueno,Paraná,CIDADANIA,centro,5.5,2.2,3.3,2.7,3.9764705882352946,7.04
+431,rubens otoni,Goiás,PT,esquerda,5.8,3.5,5.8,10.0,5.370588235294117,3.14
+432,rubens pereira junior,Maranhão,PT,esquerda,4.0,0.4,2.4,9.1,2.958823529411765,5.29
+433,rui falcao,São Paulo,PT,esquerda,3.4,2.2,5.5,9.1,3.7529411764705887,2.6
+434,ruy carneiro,Paraíba,PSC,direita,2.6,1.1,1.8,2.7,2.0235294117647062,6.26
+435,samia bomfim,São Paulo,PSOL,esquerda,5.8,2.7,6.4,10.0,5.241176470588235,2.91
+436,samuel moreira,São Paulo,PSDB,centro,2.8,1.3,2.1,0.9,2.123529411764706,7.76
+437,sanderson,Rio Grande do Sul,PL,direita,7.0,2.2,5.2,8.2,5.341176470588235,7.31
+438,sargento fahur,Paraná,PSD,centro,2.7,1.5,1.5,0.9,2.0294117647058822,7.39
+439,sebastiao oliveira,Pernambuco,AVANTE,centro,2.3,0.2,2.1,9.1,2.0470588235294116,6.57
+440,sergio brito,Bahia,PSD,centro,1.4,0.0,1.5,9.1,1.4588235294117646,6.34
+441,sergio souza,Paraná,MDB,centro,3.1,1.5,3.3,6.4,2.8588235294117643,6.9
+442,sergio toledo,Alagoas,PV,esquerda,2.3,0.7,1.5,8.2,2.0352941176470587,6.24
+443,severino pessoa,Alagoas,MDB,centro,2.4,0.2,1.8,8.2,1.9882352941176469,6.02
+444,sheridan,Roraima,PSDB,centro,3.5,0.4,2.4,3.6,2.4000000000000004,5.9
+445,sidney leite,Amazonas,PSD,centro,3.3,3.3,3.0,2.7,3.211764705882353,5.96
+446,silas camara,Amazonas,REPUBLICANOS,direita,3.1,2.2,3.0,8.2,3.1176470588235294,5.77
+447,silvia cristina,Rondônia,PL,direita,3.0,0.5,3.3,0.9,2.1941176470588233,5.12
+448,silvio costa filho,Pernambuco,REPUBLICANOS,direita,3.1,1.1,3.6,6.4,2.7941176470588234,6.81
+449,soraya santos,Rio de Janeiro,PL,direita,3.9,1.5,3.0,6.4,3.182352941176471,6.84
+450,sostenes cavalcante,Rio de Janeiro,PL,direita,4.2,1.8,2.1,3.6,3.0882352941176476,5.44
+451,stefano aguiar,Minas Gerais,PSD,centro,1.8,2.0,0.9,6.4,1.9705882352941178,5.87
+452,subtenente gonzaga,Minas Gerais,PSD,centro,5.8,2.0,4.8,2.7,4.323529411764706,4.04
+453,tabata amaral,São Paulo,PSB,esquerda,7.5,4.0,6.7,0.9,5.9411764705882355,6.33
+454,tadeu alencar,Pernambuco,PSB,esquerda,3.9,3.3,4.2,7.3,3.9764705882352946,3.6
+455,taliria petrone,Rio de Janeiro,PSOL,esquerda,7.2,2.9,6.4,9.1,5.905882352941176,3.39
+456,tereza nelma,Alagoas,PSD,centro,5.0,2.7,7.0,0.9,4.435294117647059,4.97
+457,tiago dimas,Tocantins,PODE,centro,3.9,1.6,3.3,6.4,3.264705882352941,6.39
+458,tiago mitraud,Minas Gerais,NOVO,direita,4.2,3.5,5.2,10.0,4.511764705882353,7.79
+459,tiririca,São Paulo,PL,direita,2.2,1.3,0.9,0.9,1.6294117647058823,3.73
+460,tito,Bahia,AVANTE,centro,2.0,1.1,1.5,4.5,1.7941176470588236,7.22
+461,toninho wandscheer,Paraná,PROS,centro,2.3,0.7,1.8,7.3,2.0352941176470587,6.43
+462,tulio gadelha,Pernambuco,REDE,esquerda,5.1,2.7,5.5,0.9,4.2176470588235295,3.5
+463,uldurico junior,Bahia,MDB,centro,1.9,1.3,1.2,4.5,1.752941176470588,6.7
+464,valmir assuncao,Bahia,PT,esquerda,4.2,2.4,4.2,8.2,3.905882352941177,2.63
+465,vander loubet,Mato Grosso do Sul,PT,esquerda,3.1,3.5,4.8,7.3,3.7647058823529407,2.07
+466,vanderlei macris,São Paulo,PSDB,centro,2.5,0.7,1.2,0.9,1.6470588235294117,7.06
+467,vava martins,Pará,REPUBLICANOS,direita,2.7,0.4,2.1,8.2,2.2411764705882353,5.97
+468,vermelho,Paraná,PL,direita,3.0,0.5,2.1,8.2,2.411764705882353,6.21
+469,vicentinho,São Paulo,PT,esquerda,3.9,4.2,4.5,9.1,4.3999999999999995,2.85
+470,vicentinho junior,Tocantins,PP,direita,3.0,0.2,3.0,10.0,2.588235294117647,6.52
+471,vilson da fetaemg,Minas Gerais,PSB,esquerda,4.5,0.5,4.5,7.3,3.488235294117647,3.68
+472,vinicius carvalho,São Paulo,REPUBLICANOS,direita,4.7,1.1,2.4,9.1,3.4941176470588236,6.56
+473,vinicius farah,Rio de Janeiro,UNIÃO,direita,3.4,1.8,3.6,8.2,3.2470588235294118,5.49
+474,vinicius poit,São Paulo,NOVO,direita,3.5,2.7,3.9,10.0,3.7176470588235295,7.88
+475,vitor lippi,São Paulo,PSDB,centro,3.6,1.3,4.8,3.6,3.135294117647059,6.93
+476,vivi reis,Pará,PSOL,esquerda,2.5,2.5,4.5,10.0,3.2941176470588234,1.64
+477,waldenor pereira,Bahia,PT,esquerda,3.4,3.6,5.2,8.2,4.0588235294117645,2.71
+478,walter alves,Rio Grande do Norte,MDB,centro,2.7,1.6,2.1,9.1,2.647058823529412,6.01
+479,weliton prado,Minas Gerais,PROS,centro,4.0,1.6,3.0,0.9,2.9352941176470586,4.78
+480,wellington roberto,Paraíba,PL,direita,2.8,1.6,2.4,10.0,2.8,5.76
+481,wilson santiago,Paraíba,REPUBLICANOS,direita,4.1,0.9,3.9,8.2,3.364705882352941,4.29
+482,wolney queiroz,Pernambuco,PDT,esquerda,4.2,4.0,3.3,9.1,4.270588235294118,3.49
+483,ze carlos,Maranhão,PT,esquerda,3.1,2.0,6.4,7.3,3.605882352941176,2.78
+484,ze neto,Bahia,PT,esquerda,4.2,1.1,5.5,7.3,3.6999999999999997,3.2
+485,ze silva,Minas Gerais,SOLIDARIEDADE,centro,4.3,0.5,3.6,6.4,3.182352941176471,6.47
+486,ze vitor,Minas Gerais,PL,direita,5.8,1.8,4.5,6.4,4.429411764705883,6.22
+487,zeca dirceu,Paraná,PT,esquerda,3.2,3.1,4.5,8.2,3.6941176470588233,2.91
