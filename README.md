@@ -38,11 +38,12 @@ Em seguida são treinados três modelos de regressão linear:
   
 Conclusão
 
-  Dos três modelos estudados o M3 foi o que apresentou um R² mais alto (70%). A esse modelo foram adicionadas features catégoricas com base na própria base de dados, isso porque foi observada uma tendência do Site 2 em agrupar notas de acordo com a ideologia do partido político dos deputados.
+  Dos três modelos estudados o M3 foi o que apresentou um R² mais alto (70%). A esse modelo foram adicionadas features catégoricas com base na própria base de dados, isso porque foi observada uma tendência do Site 2 em agrupar notas de acordo com a ideologia do partido político dos deputados.<br>
 <br>
   Comparando o desempenho do Modelo M2 e M3 é possível dizer que o partido do deputado também influencia na nota, ou seja, especificando qual o partido do candidato fica mais fácil predizer a nota que ele tem no Site 2 utilizando as informações do Site 1.
 <br>  
   No entanto, considerando somente as 4 notas do Site 1 (Modelo M1) não é possível predizer as notas do Site 2, muito provavelmente por conta da dependência das notas com a ideologia do partido. Que pode ser consequência do critério subjetivo observado na metodoligia adotada pelo Site 2 (Ranking dos políticos).<br>
+  <br>
   Somente com as notas do site 1 o modelo preditivo fica com um desempenho muito ruim. Como critério de avaliação do modelo foi utilizado o valor do R². No subset de validação foi utilizada a técnica Cross Validation, e foi obtido um valor médio de 0,315. Verificando-se que o modelo de regressão explica 31,5% da variância. A teoria diz que quanto mais variância for explicada pelo modelo de regressão mais próximos os pontos de dados estarão em relação à linha de regressão ajustada. Nesse caso um desempenho ruim.
 
   
