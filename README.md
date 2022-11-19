@@ -1,5 +1,5 @@
 # Notas_deputados
-Tem o objetivo de comparar notas de desempenho de Deputados Federais do Brasil em 2022 entre dois diferentes sites: <br>
+Tem o objetivo de comparar notas de desempenho de Deputados Federais do Brasil em 2022 entre dois diferentes sites, ou sej, obter dados de duas fontes diferentes e compara-lás com o próposito de saber se há uma relação, um padrão entre as duas fontes usando Machine Learning. <br>
 https://www.legislabrasil.org/ (Site 1) <br>
 https://www.politicos.org.br/ (Site 2) <br>
 para saber se a nota de cada deputado é similar ou é independente para cada site. Usando como referência os pontos abaixo:
