@@ -1,5 +1,5 @@
 # Notas_deputados
-Tem o objetivo de comparar notas de desempenho de Deputados Federais do Brasil em 2022 entre dois diferentes sites, ou sej, obter dados de duas fontes diferentes e compara-lás com o próposito de saber se há uma relação, um padrão entre as duas fontes usando Machine Learning. <br>
+Tem o objetivo de comparar notas de desempenho de Deputados Federais do Brasil em 2022 entre dois diferentes sites, ou seja, obter dados de duas fontes diferentes e compará-las com o propósito de saber se há uma relação, um padrão entre as duas fontes usando Machine Learning. <br>
 https://www.legislabrasil.org/ (Site 1) <br>
 https://www.politicos.org.br/ (Site 2) <br>
 para saber se a nota de cada deputado é similar ou é independente para cada site. Usando como referência os pontos abaixo:
@@ -10,9 +10,9 @@ para saber se a nota de cada deputado é similar ou é independente para cada si
 
   3) Modelo explicativo: Regressão linear múltipla entre os 4 itens do ranking do Legisla Brasil e a nota do Ranking dos Políticos, por exemplo. Os 4 itens do Legisla explicam qual variabilidade do Ranking dos Políticos?
 
-  4) Discussão: Por que são diferentes? Por que são iguais? Existem viéses políticos? São apartidários? Qual sua opinião que justifique os resultados?
+  4) Discussão: Por que são diferentes? Por que são iguais? Existem vieses políticos? São apartidários? Qual sua opinião que justifique os resultados?
 
-Com o problema em mãos é hora de começar a coleta dos dados. Esta etapa foi feita através das bibliotecas do python Selenium e BeautifulSoup. Abaixo a sequencia que relaciona o site, o código e o .csv gerado.<br>
+Com o problema em mãos é hora de começar a coleta dos dados. Esta etapa foi feita através das bibliotecas do python Selenium e BeautifulSoup. Abaixo a sequência que relaciona o site, o código e o .csv gerado.<br>
 <br>
 Como saída dessa etapa foram obtidos dois arquivos no formato .csv, um para cada site. <br>
   https://www.legislabrasil.org/ -> Rank_pol_V3.ipynb -> rank_legislabr_completo.csv <br>
