@@ -1,4 +1,4 @@
-# Notas deputados
+# Relação entre notas de deputados brasileiros de acordo com dois diferentes sites
 
 Esse projeto tem por objetivo comparar notas de desempenho de Deputados Federais do Brasil em 2022 entre dois diferentes sites, ou seja, obter dados de duas fontes diferentes e compará-las com o propósito de saber se há uma relação, um padrão entre as duas fontes usando Machine Learning. Em suma um problema que precisa que os dados sejam coletados para que se comece uma análise exploratória seguindo da aplicação de Machine Learning para que se possa iniciar uma discussão pautada nos dados do tipo de relação entre os sites. <br> 
 Esse problema é sugestão do professor **Vinícius Souza**, *https://www.linkedin.com/in/vmesquita/*, em uma postagem no site LinkedIn.com, onde o mesmo provocava aspirantes a Ciêntista de Dados a saírem dos datasets mais comuns usados por iniciantes e procurar a dificuldade em **dados reais**. <br>
