@@ -31,10 +31,10 @@ Fórmula: [((APx3)+(AD/3))/4] + AC + OT = Nota Final
 
 Aplicando a seguinte metodologia, pelo site:
 Pesos:  
-•	Para calcular a pontuação final dos políticos, aplicar os seguintes pesos:
-•	Antiprivilégios (Votações): 3x
-•	Antidesperdício (Presenças e Economia de Verbas): 3÷
-•	Anticorrupção (Ficha Limpa): quando há processos, subtrai pontos da nota final
+•	Para calcular a pontuação final dos políticos, aplicar os seguintes pesos:  
+•	Antiprivilégios (Votações): 3x  
+•	Antidesperdício (Presenças e Economia de Verbas): 3÷  
+•	Anticorrupção (Ficha Limpa): quando há processos, subtrai pontos da nota final  
 •	Outros: soma ou subtrai pontos da nota final.  
 
 Obs: A montagem da fórmula exibida no site ficou confusa, após verificação foi constatado que faltava um ( ) e foi corrigida aqui na apresentação.  
