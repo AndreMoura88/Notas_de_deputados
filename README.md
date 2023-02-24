@@ -99,16 +99,39 @@ Comparando as médias por ideologia também é constatado que Centro e Direita t
   <img src="https://i.ibb.co/L9zvzRJ/boxplot.png">
 </p>
 
-**4.0 Modelo**  
+**4.0 Modelagem**  
 
 A etapa de Machine Learning, (/content/drive/MyDrive/Colab_Notebooks/Notas_deputados/notebooks/ND_MachineLearning.ipynb) começa com uma explanação do problema e das metodologias utilizadas por cada um dos sites.  
 
 1.	Outro questionamento levantado foi qual a relação da região do Brasil ao qual o deputado pertence e sua nota, mas foi verificado que não há alterações por região, elas seguem o mesmo padrão da população.  
 
 Em seguida são treinados três modelos de regressão linear:
-1.	Somente com as 4 notas do LegislaBr para prever a nota média do Politicos.org.
-2.	Adicionando a feature 'ideologia', que diz se o partido do deputado é de Esquerda, Centro ou Direita.
-3.	Adicionando a feature 'partido'.  
+M1.	Somente com as 4 notas do LegislaBr para prever a nota média do Politicos.org.
+M2.	Adicionando a feature 'ideologia', que diz se o partido do deputado é de Esquerda, Centro ou Direita.
+M3.	Adicionando a feature 'partido'. 
+
+Avaliação do modelo M1  
+
+Somente com as notas do LegislaBr o modelo preditivo fica com um desempenho muito ruim. Um dos critérios de avaliação do modelo foi o valor do R² e foi obtido um valor médio de 0,315. Verificando-se que o modelo de regressão explica 31,5% da variância. A teoria diz que quanto mais variância for explicada pelo modelo de regressão, mais próximos os pontos de dados estarão em relação à linha de regressão ajustada. Nesse caso um desempenho ruim.  
+O Erro Absoluto Médio consiste na média das distâncias entre valores preditos e reais. Diferentemente do MSE e do RMSE, essa métrica não "pune" tão severamente os outliers do modelo. Essa medida apresenta valor mínimo 0 e não apresenta valor máximo.  
+Para o MAE: 1,0612
+
+Avaliação do Modelo M2  
+
+Com a adição da nova feature o modelo M2 conseguiu uma performance nelhor que o anterior, aproximadamente 57%. E um MAE = -0,7277  
+
+Avaliando o Modelo M3  
+
+Uma melhora na base de treino, no subset de validação, foi alcançada com as mudanças para o modelo M3. Com a validação cruzada o valor de R² = 63,6% e um MAE = - 0,6944  
+
+Por meio desses resultados o modelo escolhido foi o M3 para fazer a avaliação na base de testes.  
+
+Os resultados na base de teste foram:
+- MAE = 0,649
+- MSE = 0,734
+- R² = 0,701  
+
+Com uma base de dados não vista pelo modelo o desempenho para o R² foi de 70%.
 
 **5.0 Conclusão**  
 
