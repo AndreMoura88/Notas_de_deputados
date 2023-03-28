@@ -1,6 +1,6 @@
 <h1 align="center"> Relação entre notas de deputados brasileiros (2022) de acordo com dois diferentes sites </h1>
 
-**1.0	Problema de negócio**
+### **1.0	Problema de negócio**
 
 Um momento importante da política é pós eleição, como acompanhar os parlamentares eleitos? Começando pela quantidade de deputados federais, no Brasil atualmente são 513, se torna muito trabalhoso acompanhar o desempenho de todos. Essa é uma das propostas dos sites https://indice.legislabrasil.org/public/ e https://www.politicos.org.br/.  
 
@@ -39,7 +39,7 @@ Pesos:
 
 Obs: A montagem da fórmula exibida no site ficou confusa, após verificação foi constatado que faltava um ( ) e foi corrigida aqui na apresentação.  
 
-**2.0 Dados Coletados**
+### **2.0 Dados Coletados**
 
 Após definir o problema a ser resolvido é iniciada a etapa de coleta de dados, conseguir os dados: 4 notas do LegislaBr e a média final das notas do Politicos.org.  
 
@@ -60,7 +60,7 @@ Nessa fase se deu início carregando e unindo os dois datasets gerados na etapa 
 </p>
  
 
-3.0 Análise exploratória
+### 3.0 Análise exploratória
 
 Após ter posse dos dados dá se início a parte de análise exploratória. No que foram observados pontos importantes:  
 
@@ -99,7 +99,7 @@ Comparando as médias por ideologia também é constatado que Centro e Direita t
   <img src="https://i.ibb.co/L9zvzRJ/boxplot.png">
 </p>
 
-**4.0 Modelagem**  
+### **4.0 Modelagem**  
 
 A etapa de Machine Learning, (/content/drive/MyDrive/Colab_Notebooks/Notas_deputados/notebooks/ND_MachineLearning.ipynb) começa com uma explanação do problema e das metodologias utilizadas por cada um dos sites.  
 
@@ -133,7 +133,7 @@ Os resultados na base de teste foram:
 
 Com uma base de dados não vista pelo modelo o desempenho para o R² foi de 70%.
 
-**5.0 Conclusão**  
+### **5.0 Conclusão**  
 
 Dos três modelos estudados o M3 foi o que apresentou um R² mais alto (70%). A esse modelo foram adicionadas features categóricas com base na própria base de dados, isso porque foi observada uma tendência do Politicos.org em agrupar notas de acordo com a ideologia do partido político dos deputados.  
 
