@@ -160,5 +160,9 @@ Somente com as notas do LegislaBr o modelo preditivo fica com um desempenho muit
 
 Como ficou claro na EDA, o LegislaBr tem um potencial alinhamento com a Esquerda e o Politicos.org tem alinhamento com a Direita. Visto isso é possível deduzir que diferentes metodologias podem gerar notas de desempenho diferentes (nesse caso quase que opostas de acordo com o partido político). Isso pode gerar confusão na população interessada em saber o desempenho de vários deputados. Pois a nota irá depender de cada veículo de comunicação, o que não mostra consistência na análise de desempenho dos deputados.  
 
+
+#### O problema que o autor enfrentou nesse projeto é semelhante a muitos problemas reais que as empresas enfrentam na previsão de vendas, otimização de processos e tomada de decisão baseada em dados. Assim como o autor precisou identificar outros fatores além das notas dos deputados, as empresas muitas vezes precisam considerar uma variedade de fatores, como preço, demanda do mercado, posicionamento de concorrentes, entre outros, para prever com precisão as vendas ou tomar decisões informadas.
+#### As habilidades que o autor usou em seu projeto, como raspagem de dados, EDA e modelagem de machine learning, são altamente valiosas para as empresas que desejam extrair insights significativos de seus dados e tomar decisões mais informadas. Ao incluir o projeto em seu perfil do LinkedIn, o autor pode demonstrar aos empregadores potenciais que tem habilidades valiosas para resolver problemas de negócios usando dados e técnicas de ciência de dados.
+
 Para mais detalhes vale a leitura dos notebooks aqui listados, quaisquer dúvidas e/ou sugestões são muito bem-vindas, é só entrar em contato pelo e-mail: almsm88@gmail.com.
 
