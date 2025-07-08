@@ -1,4 +1,4 @@
-<h1 align="center"> Relação entre notas de deputados brasileiros (2022) de acordo com dois diferentes sites </h1>
+<h1 align="center"> Análise de Notas Parlamentares brasileiros (2022): Avaliando a Convergência de Indicadores Legislativos através de Regressão Linear </h1>
 
 ### **1.0	Problema de negócio**
 
