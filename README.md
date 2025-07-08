@@ -1,4 +1,4 @@
-<h1 align="center"> Análise de Notas Parlamentares brasileiros (2022): Avaliando a Convergência de Indicadores Legislativos através de Regressão Linear </h1>
+<h1 align="center"> Análise de Notas Parlamentares brasileiros (2022): Avaliando a Convergência de Indicadores Legislativos através de Regressão Linear,  utilizando Web Scraping, Análise Exploratória de Dados (EDA) e Machine Learning </h1>
 
 ### **1.0	Problema de negócio**
 
