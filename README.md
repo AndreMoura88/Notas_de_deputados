@@ -44,10 +44,10 @@ Obs: A montagem da fórmula exibida no site ficou confusa, após verificação f
 Após definir o problema a ser resolvido é iniciada a etapa de coleta de dados, conseguir os dados: 4 notas do LegislaBr e a média final das notas do Politicos.org.  
 
 O produto do webscraping do LegislaBr foi um .csv com 565 linhas e 7 colunas, contendo nome, estado e partido de cada deputado além das notas dos 4 grupos (produção legislativa, fiscalização, mobilização e alinhamento partidário). O arquivo está em:
-https://github.com/AndreMoura88/Notas_de_deputados/blob/main/datasets/raw_data/legislaBr_raw.csv  
+https://github.com/AndreMoura88/politician-score-ml/blob/main/datasets/raw_data/legislaBr_raw.csv
 
 Para o Politicos.org foi gerado outro .csv, agora com 497 linhas e duas colunas, contendo o nome do deputado e a média da sua nota. O arquivo está em: 
-https://github.com/AndreMoura88/Notas_de_deputados/blob/main/datasets/raw_data/politicos-org_raw.csv  
+https://github.com/AndreMoura88/politician-score-ml/blob/main/datasets/raw_data/politicos-org_raw.csv  
 
 Lembrando que as notas estão no intervalo de 0 a 10. Os dois datasets foram comparados e foi verificado que 78 deputados federais não constavam nos dois sites. Então foram fundidos pelo nome do deputado para que ficasse somente os deputados citados nos dois sites.  
 
